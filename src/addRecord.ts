@@ -10,7 +10,7 @@ const client = new KintoneRestAPIClient({
     // },
     // Use API token authentication
     //auth: { apiToken: process.env.KINTONE_API_TOKEN }
-    auth: { apiToken: "YUXO2qp0TlXpV9WyULs5dyRhIkVeTdtOF2aZqa5x" }
+    auth: { apiToken: "" }
 
     // Use session authentication if `auth` is omitted (in browser only)
 });
